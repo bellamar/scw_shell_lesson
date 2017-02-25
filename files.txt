@@ -1,0 +1,9 @@
+animals.txt
+animals_and_plants.txt
+animals_first5.txt
+files.txt
+first_script.sh
+male_titanic.tsv
+plants.txt
+titanic_women.tsv
+train.tsv
